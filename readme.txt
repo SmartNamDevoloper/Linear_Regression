@@ -1,3 +1,5 @@
+This repository has a multiple linear regression model to predict the demand for shared bikes with the available independent variables. The model will be a good way for management to understand the demand dynamics of a new market. 
+
 =========================================
 Dataset characteristics
 =========================================	
